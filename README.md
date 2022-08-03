@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Angel => @gelos3000
-- 👀 I’m interested in Projects that will make easier society.
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on C#, Java and PHP
+- 👀 I’m interested in Projects that will help society to make their life easier.
+- 🌱 I’m currently learning Swift.
+- 💞️ I’m looking to collaborate on C#, Kotlin, Java and PHP
 
 <!---
 gelos3000/gelos3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
